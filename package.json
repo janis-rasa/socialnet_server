@@ -1,0 +1,13 @@
+{
+	"name": "socialnet_server",
+	"version": "1.0.0",
+	"description": "Simple JSON server for socialnet project",
+	"author": "JanisDeveloper <janis@developer.lv>",
+	"main": "server.js",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	},
+	"scripts": {
+		"start": "node server.js"
+	}
+}
