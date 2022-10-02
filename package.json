@@ -1,6 +1,6 @@
 {
 	"name": "socialnet_server",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Simple JSON server for socialnet project",
 	"author": "JanisDeveloper <janis@developer.lv>",
 	"main": "server.js",
